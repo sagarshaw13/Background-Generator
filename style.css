@@ -1,0 +1,21 @@
+body{
+    font-family: courier,arial,helvetica;
+    text-align: center;
+    background: linear-gradient(to right, red, yellow);
+}
+h1{
+    color: rgba(0, 0, 0, 0.4);
+    text-align: center;
+    text-transform: uppercase;
+    font: 600 3.5rem courier,arial,helvetica;
+    letter-spacing: 0.5rem;
+    width: 100%;
+    
+}
+h2{
+    color: rgba(0,0,0,0.3);
+    text-align: center;
+    text-transform: uppercase;
+    font:  800 2rem courier,arial,helvetica;
+    letter-spacing: 0.1em;
+}
